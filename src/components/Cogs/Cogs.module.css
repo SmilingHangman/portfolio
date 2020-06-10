@@ -1,0 +1,58 @@
+.cogsWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  font-family: Chelsea Market;
+  font-size: 2rem;
+  color: #ffffff;
+  display: inline-block;
+}
+
+.cogBox {
+  height: 300px;
+  width: 300px;
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  position: relative;
+  overflow: hidden;
+}
+
+.cog1 {
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+  background-image: url(../../images/cog.svg);
+  background-size: cover;
+  animation: rotation1 9s linear infinite;
+  position: absolute;
+  bottom: -250px;
+  left: -250px;
+}
+.cog2 {
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+  background-image: url(../../images/cog.svg);
+  background-size: cover;
+  animation: rotation2 9s linear infinite;
+  position: absolute;
+  top: -272px;
+  right: -274px;
+}
+
+@keyframes rotation1 {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotation2 {
+  /* 0% {
+    transform: rotate(-4deg);
+  } */
+  100% {
+    transform: rotate(-360deg);
+  }
+}
