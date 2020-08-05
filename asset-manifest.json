@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bef7b305.chunk.css",
+    "main.js": "/portfolio/static/js/main.c856e3df.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c856e3df.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0a880550.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0a880550.js.map",
+    "static/js/2.3c1b1313.chunk.js": "/portfolio/static/js/2.3c1b1313.chunk.js",
+    "static/js/2.3c1b1313.chunk.js.map": "/portfolio/static/js/2.3c1b1313.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.748cfe6c4f3cf571871e0c23947614b4.js": "/portfolio/precache-manifest.748cfe6c4f3cf571871e0c23947614b4.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.bef7b305.chunk.css.map": "/portfolio/static/css/main.bef7b305.chunk.css.map",
+    "static/js/2.3c1b1313.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3c1b1313.chunk.js.LICENSE.txt",
+    "static/media/20200603_152906.jpg": "/portfolio/static/media/20200603_152906.f31c2fb5.jpg",
+    "static/media/Cogs.module.css": "/portfolio/static/media/cog.98021aca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a880550.js",
+    "static/js/2.3c1b1313.chunk.js",
+    "static/css/main.bef7b305.chunk.css",
+    "static/js/main.c856e3df.chunk.js"
+  ]
+}
